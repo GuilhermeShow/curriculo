@@ -1,0 +1,33 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: blue;
+}
+
+p {
+    opacity: .8;
+}
+
+body {
+    padding: 10px 40px;
+}
+
+.nome {
+    width: 100%;
+    opacity: .7;
+    line-height: 1px;
+}
+
+.titulo {
+    padding-bottom: 14px;
+    text-decoration: underline;
+}
+
+.subTitulo {
+    text-decoration: underline;
+    opacity: .7;
+    margin-top: 30px;
+}
+
